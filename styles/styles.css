@@ -1,0 +1,32 @@
+#title,
+.recetas-list .recetas-list-items,
+.subtitles {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p,
+#list-ingredientes li,
+#list-procedimiento li,
+h3,
+ul {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title {
+  background-color: rgb(255, 191, 105);
+  text-align: center;
+  font-weight: bold;
+}
+
+.recetas-list {
+  background-color: rgb(203, 243, 240);
+}
+
+.recetas-list .recetas-list-items {
+  font-size: 15px;
+}
+
+.subtitles {
+  background-color: rgb(46, 196, 182);
+}
